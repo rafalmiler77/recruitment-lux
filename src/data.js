@@ -1,4 +1,4 @@
-[
+export const data = [
   {
     "_id": "619bc774847d77b308f0b5a1",
     "index": 0,
